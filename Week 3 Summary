@@ -1,7 +1,3 @@
-Here's a reflective summary tailored to the results you obtained.
-
-# Reflective Summary
-
 ## Feature Selection
 
 In this exercise, I implemented multiple linear regression models using different combinations of the available input features: **Square_Footage, Num_Bedrooms, Num_Bathrooms, Lot_Size, and Year_Built**, with **Price** as the target variable. I began with a simple model using only **Square_Footage** because it is generally considered the most influential factor affecting house prices. I then gradually added additional features, including the number of bedrooms, number of bathrooms, lot size, and year built, to evaluate whether each feature contributed to improving the model's predictive performance. This incremental approach allowed me to observe the individual and combined impact of each feature on the prediction accuracy.
